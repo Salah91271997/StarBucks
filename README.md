@@ -6,7 +6,7 @@ Click demo to try it by yourself!
 
 ## Starbucks Clone Demo Link
 
-[Demo](https://starbucks-7bba2.web.app)
+[Demo](https://starbucks-7bba2.web.app/)
 
 ## Topics
 
